@@ -1,0 +1,52 @@
+Concept Release Scene
+
+Base Scene:
+
+Lair interior, desk with old CRT computer, stacks of papers, WAGMI mug.
+
+Outside: jungle + Aztec-style pyramid + mountains.
+
+Mantis at desk, head toward monitor, claw typing.
+
+Sequence
+
+1. Typing
+
+Mantis types slowly with pauses.
+
+Text scrolls on screen (fills, then new screen).
+
+Bird flies in background.
+
+2. Lights Out
+
+Lair darkens, monitor glow remains.
+
+Lightning flashes: brief monochrome room + text keeps scrolling.
+
+After last strike, monitor powers off.
+
+3. After Strike
+
+Light returns, mantis gone.
+
+Monitor off, faint smoke rising slowly.
+
+Single paper drifts down onto desk (slower fall).
+
+4. Desk Close-Up
+
+Focus on desk: WAGMI mug, scattered/crumbled papers.
+
+Top paper shows GAME CONCEPT (or CONCEPT).
+
+Notes:
+
+Keep pixel art consistent with repo assets.
+
+Slow pacing: typing + paper falling extended for drama.
+
+Smoke should rise slowly, clear it’s from PC, not mug.
+
+
+Submit ASE file and compiled GIF + into ART/Requests/concept_release
