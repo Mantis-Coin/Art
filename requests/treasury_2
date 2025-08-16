@@ -1,0 +1,29 @@
+Treasury II
+
+Base Scene:
+Clearing in the jungle, large stone altar/platform with an open treasure chest overflowing with coins (the treasury).
+Background: mountains and jungle canopy under a clear sky with clouds.
+Foreground: mantises of different sizes (big and small) already positioned around the altar, each continuously donating coins.
+Flying mantises in the sky above, circling steadily.
+
+Sequence:
+1. Endlessly Donating
+Mantises remain in fixed positions, endlessly placing coins into the chest.
+Coins vanish/reset smoothly from chest into their claws, making the act of donation appear infinite.
+Chest maintains a steady "overflowing" state.
+
+2. Flying Swarm Loop
+Flying mantises in the sky repeat a smooth circular path, keeping motion continuous and natural.
+Ground mantises remain static except for the endless coin motion.
+
+3. Cyclical Loop
+Scene designed for perfect repetition: donations cycle seamlessly, swarm in sky loops continuously, no gathering or dispersing.
+
+Notes:
+Pixel art style consistent with repo assets.
+Focus on natural looping of donations and swarm flight.
+No new mantises entering or leaving — all are already in place.
+Ensure chest doesn’t “overfill” but stays lively with coin animations.
+
+Submission:
+Submit ASE file and compiled GIF into ART/Requests/treasury_2.
