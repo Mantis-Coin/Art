@@ -1,0 +1,36 @@
+Stickers and Alpha
+
+Base Scene:
+Lair interior, desk with old server tower (blinking lights), CRT monitor.
+Background: jungle + Aztec-style pyramid + mountains.
+No paper stacks this time.
+Mantis at desk, claw on keyboard, monitor showing changing pixel images.
+
+Sequence:
+1. Working
+Mantis types slowly.
+Monitor cycles through pixel images.
+Server lights blink.
+
+2. Pause
+Mantis stops typing.
+
+3. Drawer Action
+Mantis opens drawer under desk.
+Takes stickers.
+
+4. Sticker Placement
+Mantis peels one sticker.
+Puts it on the side of the server.
+
+5. Close-Up
+Focus on server: blinking lights + new sticker on case.
+Monitor shows final static image.
+
+Notes:
+Keep pixel art consistent with repo assets.
+Sticker placement is deliberate and slow.
+Server blink after sticker placement.
+
+Submission:
+Submit ASE file and compiled GIF → Art/requests/
